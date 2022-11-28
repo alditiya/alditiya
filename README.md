@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alditiya
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Data Mining
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, java, laravel, html
+- 🌱 I’m currently learning Data Mining, OOP, web development
+- 💞️ I’m looking to collaborate on Java and Python
 - 📫 How to reach me: Instagram @havnt_named
 -                     Twitter @your_futured
 
