@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alditiya
-- 👀 I’m interested in Python, java, laravel, html
-- 🌱 I’m currently learning Data Mining, OOP, web development
-- 💞️ I’m looking to collaborate on Java and Python
+- 👀 I’m interested in Python, NodeJS, Java, Laravel, R, HTML, React, SwiftUI
+- 🌱 I’m currently learning Data Mining, OOP, Web Development
+- 💞️ I’m looking to collaborate on Java, NodeJS, R and Python
 - 📫 How to reach me: Instagram https://instagram.com/havnt_named
 -                     Twitter https://twitter.com/your_futured
 -                     Linkedin https://linkedin.com/in/alditiya-yudha-pratama
